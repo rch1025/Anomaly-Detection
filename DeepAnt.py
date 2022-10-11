@@ -1,6 +1,6 @@
 ## 경로에 맞는 데이터를 불러오고 결측치 대체와 같은 1차 전처리 수행
-import numpy as np
 import pandas as pd
+import numpy as np
 import torch
 from sklearn.preprocessing import MinMaxScaler
 import time
